@@ -9,10 +9,16 @@
   "devDependencies": {
     "typescript": "latest"
   },
+  "keywords": [
+    "gitbook",
+    "gitbook-plugin-collapse-expand-chapter",
+    "toggle chapters"
+  ],
   "scripts": {
     "postinstall": "tsc",
     "build": "tsc",
     "lint": "tslint",
     "watch": "tsc --watch"
-  }
+  },
+  "author": "Jasmin Makasana <jasminmakasana1991@gmail.com>"
 }
